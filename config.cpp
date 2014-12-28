@@ -40,7 +40,7 @@ class CfgVehicles {
 
 	class Box_NATO_Support_F;
 	class AGM_Box_Misc: Box_NATO_Support_F {
-		class TransportWeapons {
+		class TransportItems {
 			class _xx_AGM_Spraypaint {
 				weapon = "AGM_Spraypaint";
 				count = 10;
