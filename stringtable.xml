@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Edited with tabler - 2014-12-17 -->
+<Project name="AGM">
+  <Package name="MagazineRepack">
+    <Key ID="STR_AGM_Tagging_TagBuilding">
+      <English>Tag Building</English>
+      <German>Gebäude markieren</German>
+    </Key>
+    <Key ID="STR_AGM_Tagging_Spraypaint">
+      <English>Spray Paint</English>
+      <German>Sprühfarbe</German>
+    </Key>
+    <Key ID="STR_AGM_Tagging_SpraypaintDescription">
+      <English>A can of spray paint to tag buildings.</English>
+      <German>Eine Dose Sprühfarbe um Gebäude zu markieren.</German>
+    </Key>
+  </Package>
+</Project>
