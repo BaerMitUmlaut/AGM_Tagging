@@ -42,7 +42,7 @@ class CfgVehicles {
 	class AGM_Box_Misc: Box_NATO_Support_F {
 		class TransportItems {
 			class _xx_AGM_Spraypaint {
-				weapon = "AGM_Spraypaint";
+				name = "AGM_Spraypaint";
 				count = 10;
 			};
 		};
