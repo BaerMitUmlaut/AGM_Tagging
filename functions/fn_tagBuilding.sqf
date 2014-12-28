@@ -45,8 +45,4 @@ if (_counter < 30) then {
 	["You are not close enough to a wall."] call AGM_Core_fnc_displayTextStructured;
 };
 
-<<<<<<< HEAD
 deleteVehicle _tester;
-=======
-deleteVehicle _tester;
->>>>>>> 87a85e83e1b9fc37157c2b00cff98b8bc502426d
