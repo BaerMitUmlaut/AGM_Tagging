@@ -5,8 +5,11 @@ _player = _this select 1;
 _sprayDir = direction _target;
 _playerDir = direction _player;
 
+<<<<<<< HEAD
 //_player switchMove "Acts_PercMstpSlowWrflDnon_handup1b";
 
+=======
+>>>>>>> 87a85e83e1b9fc37157c2b00cff98b8bc502426d
 //The following ensures that it is aligned to one of the walls
 // +it will be very well aligned to walls
 // -does not work well with round or roundish buildings
@@ -42,4 +45,8 @@ if (_counter < 30) then {
 	["You are not close enough to a wall."] call AGM_Core_fnc_displayTextStructured;
 };
 
+<<<<<<< HEAD
 deleteVehicle _tester;
+=======
+deleteVehicle _tester;
+>>>>>>> 87a85e83e1b9fc37157c2b00cff98b8bc502426d
