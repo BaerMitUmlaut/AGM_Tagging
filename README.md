@@ -4,7 +4,7 @@ AGM_Tagging
 An addition to AGM that provides spray paint cans with which you can tag buildings.
 
 ## Usage
-By default 10 spray paint cans are added to the AGM Miscellaneous Box, alternativley you can add it to a unit's inventory by using `unit addItem "AGM_Spraypaint` and similar functions. You need to have at least one spray paint can in your inventory to be able to tag buildings.
+By default 10 spray paint cans are added to the AGM Miscellaneous Box, alternativley you can add it to a unit's inventory by using `unit addItem "AGM_Spraypaint"` and similar functions. You need to have at least one spray paint can in your inventory to be able to tag buildings.
 
 To tag a building simply approach a building you want to tag and press your interaction key. If you have a spray paint can in your inventory an option will show up to tag the building. Click on that option or simply hit T and a tag will appear on the wall.
 
